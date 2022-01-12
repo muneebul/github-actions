@@ -12,9 +12,9 @@ push:
 
 branches: [ master ]
 
-pull_request:
+# pull_request:
 
-branches: [ master ]
+# branches: [ master ]
 
 
 
